@@ -1,0 +1,12 @@
+envcrypto/
+venv/
+.env
+
+donations.db
+
+__pycache__/
+*.py[cod]
+
+.streamlit/
+
+.DS_Store
